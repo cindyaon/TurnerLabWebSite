@@ -1,0 +1,28 @@
+---
+title: Arushi Gupta
+last: Gupta
+first: Arushi
+people_group: undergrad
+subtitle: Undergraduate Research Assistant
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gupta.1483@buckeyemail.osu.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Arushi is an undergraduate student working on the ARTEMIS Project. She is studying Biomedical Science with a minor in Spanish at the Ohio State University and will graduate in 2028. She is interested in getting involved in research around neuroimaging and clinical-based suicide prevention research. Arushi is on the pre-med track and hopes to attend medical school after her undergrad. Outside of the lab, she is interested in dancing and traveling to new places.
+
+

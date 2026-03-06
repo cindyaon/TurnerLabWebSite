@@ -3,3 +3,23 @@
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
 
 $link-color: #4f7c8d;
+
+// Colors
+$graywhite: #edeff1;
+
+.gray-background {
+  background-color: $graywhite;
+}
+
+
+// Icons
+
+.bluesky{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/bluesky.png");
+}
+

@@ -1,0 +1,28 @@
+---
+title: Deepthisri Paruchuri
+last: Paruchuri
+first: Deepthisri
+people_group: undergrad
+subtitle: Undergraduate Research Assistant
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:deepthisri.paruchuri@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Deepthisri is a first-year student from Delaware, Ohio. At Ohio State, she is majoring in neuroscience and minoring in computer science. She aspires to pursue an MD/PhD and become a physician-scientist dedicated to advancing equitable healthcare through both research and clinical care. Outside of academics, you’ll probably find her dancing or discovering a new favorite food.
+
+

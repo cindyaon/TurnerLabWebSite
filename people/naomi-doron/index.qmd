@@ -1,0 +1,27 @@
+---
+title: Naomi Doron
+last: Doron
+first: Naomi
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:naomi.Doron@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Naomi is currently a Clinical Research Assistant on the ARTEMIS study, which explores dynamic suicide risk using ecological momentary assessment methods. She graduated in 2025 from Rice University with a B.A. in Cognitive Sciences and Visual Arts. She is passionate about suicide prevention research with a focus on LGBTQ+ populations, as well as the intersection of reproductive and mental health. Naomi hopes to pursue a PhD in Clinical Psychology to continue her research explorations. Beyond the lab, she is passionate about visual arts and spends her free time between museums, parks, and tea with friends!
+

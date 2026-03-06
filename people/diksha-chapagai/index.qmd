@@ -1,0 +1,28 @@
+---
+title: Diksha Chapagai
+last: Chapagai
+first: Diksha
+people_group: undergrad
+subtitle: Undergraduate Research Assistant
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:chapagai.4@buckeyemail.osu.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Diksha is a senior majoring in Psychology with a concentration in Neuroscience at The Ohio State University and will graduate in Spring 2026. Currently, she is completing her senior thesis examining the relationship between psychosis symptoms, childhood trauma, and cortical thickness in bipolar disorder using structural MRI data. Her research interests include understanding the neurobiological mechanisms underlying severe mental illness and how early life experiences shape the brain structure and clinical outcomes. After graduation, she plans to attend medical school. Outside of the lab, she enjoys dancing, community involvement, and spending time with friends and family.
+
+

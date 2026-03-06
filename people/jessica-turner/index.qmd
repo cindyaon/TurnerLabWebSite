@@ -1,0 +1,36 @@
+---
+title: Jessica Turner
+last: Turner
+first: Jessica
+people_group: pi
+subtitle: Professor of Psychiatry and Behavioral Health
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: fa-brands-bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/jessicaturnerphd.bsky.social
+    - icon: mortarboard 
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=mgP_xO8AAAAJ
+    - icon: fa-house 
+      text: Profile
+      href: https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd
+    - icon: envelope
+      text: Email
+      href: mailto:jessica.turner@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Dr. Jessica Turner is a neuroscientist who focuses on how brain imaging and behavioral data can help us better understand mental health. She’s known for bringing together teams across institutions, building tools that make large‑scale collaboration possible, and helping researchers study the brain in more open, privacy‑preserving ways. Her work has shaped how scientists combine imaging, genetics, and clinical information to gain clearer insights into psychiatric conditions. Her lab currently focuses on cerebellar structural and functional contributions to psychosis; dynamic systems applications in neuroimaging and other time series; and in collaboration with Dr. Melanie Bozzay, the application of dynamic systems methods to ecological momentary assessment (EMA) of suicide risk.
+

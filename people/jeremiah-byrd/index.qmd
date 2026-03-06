@@ -1,0 +1,26 @@
+---
+title: Jeremiah Byrd
+last: Byrd
+first: Jeremiah
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jeremiah.Byrd@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Jay is a Clinical Research Assistant in the ARTEMIS study at The Ohio State University. Jay recently graduated from The Ohio State University with his bachelor’s in psychology with a focus in health and society in Fall'25. Jay is currently interested in getting his PhD in clinical pediatric psychology. His study interest deals with chronic illness in adolescents and the psychosocial consequences, more specifically how pediatric chronic pain affects the developmental process and doing psychotherapy in said population Outside of the lab, Jay enjoys reading dystopia books, Lego sets, and going out to social events.  

@@ -1,8 +1,9 @@
 ---
-title: "Research"
+title: Research
+page-layout: full
 ---
 
-![](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){fig-align="center" width="500"}
+![](Images/ChatGPTImage.jpg){fig-align="center" width="500"}
 
 ### **Overview of the lab's research**
 

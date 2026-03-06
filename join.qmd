@@ -1,4 +1,7 @@
-# Interested in Joining the Lab? {#community}
+---
+title: Interested in Joining the Lab?
+page-layout: full
+---
 
 Thank you for your interest- please see the information below for a potential position that applies to you!
 

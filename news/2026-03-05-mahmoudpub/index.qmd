@@ -1,0 +1,5 @@
+---
+title: "Our paper on Cerebellar Morphologic Alterations in Schizophrenia and Bipolar Disorder was submitted to Biological Psychiatry"
+date: '2026-03-05'
+description: A paper spearheaded by Dr. Mahmoud Rashidi investigating cerebellar morphologic alterations in Schizophrenia and Bipolar Disorder was submitted to Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.
+---

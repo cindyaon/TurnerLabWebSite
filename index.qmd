@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the Turner Lab" 
+page-layout: full
 image: images/lab_logo_text
 about: 
   template: jolla

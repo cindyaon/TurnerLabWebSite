@@ -2,12 +2,26 @@
 
 #### **Foundational papers for the lab**
 
-{inset paper citations that are important for the lab? BIDS Paper, ENIGMA Mega-Analyses... GWAS}
+{insert paper citations that are important for the lab? BIDS Paper, ENIGMA Mega-Analyses... GWAS}
 
 #### **Talks given by Dr. Turner!**
 
-<https://youtu.be/KO2y6mC_rGA?si=5xEHG0G6mmFmYLOx>
+{{< video https://youtu.be/KO2y6mC_rGA?si=5xEHG0G6mmFmYLOx 
+    title="The ENIGMA Schizophrenia Working Group"
+>}}
 
-<https://www.youtube.com/live/dKCNbKZxazw?si=NIXcfc4C5Pb-l0EA>
+{{< video https://www.youtube.com/live/dKCNbKZxazw?si=NIXcfc4C5Pb-l0EA 
+    title="The ENIGMA and COINSTAC: Decentralized Meta Analysis"
+>}}
 
-<https://youtu.be/r_gC9ZgS-EA?si=PhLwC3XHdbyFYGPA>
+{{< video https://www.youtube.com/watch?v=NCYpHMqifS4&t=1s
+    title="Imaging Genetics from a Worldwide Perspective"
+>}}
+
+{{< video https://www.youtube.com/watch?v=m2lZpjBMnic&t=1s
+    title="ENIGMA: Big Data in Clinical Neuroimaging"
+>}}
+
+{{< video https://youtu.be/r_gC9ZgS-EA?si=PhLwC3XHdbyFYGPA 
+    title="Stepping Stones: Dr. Turner's Academic Path"
+>}}

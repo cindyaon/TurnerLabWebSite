@@ -1,0 +1,27 @@
+---
+title: Mahmoud Rashidi
+last: Rashidi
+first: Mahmoud
+people_group: postdoc
+subtitle: Postdoctoral Fellow
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mahmoud.Rashidi@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Mahmoud is a research scientist in the Department of Psychiatry and Behavioral Health at The Ohio State University. His current research focuses on how the cerebellum’s structure, function, and their interaction contribute to psychotic disorders. In his free time, he enjoys reading, jogging, and cooking. 
+

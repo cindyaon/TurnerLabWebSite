@@ -1,0 +1,5 @@
+---
+title: "Our paper on Cerebellar Effective Connectivity in Schizophrenia was submitted to The Cerebellum"
+date: '2025-08-10'
+description: 2nd year grad student, Kami Pearson, submitted her paper examining cerebellar effective connectivity in schizophrenia to The Cerebellum.
+---

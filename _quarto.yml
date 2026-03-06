@@ -33,19 +33,19 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "People"
-        href: people.qmd
+        href: people/index.qmd
       - text: "Research"
         href: research.qmd
       - text: "Publications & Talks"
         href: pubs_talks.qmd
       - text: "News"
-        href: news.qmd
+        href: news/index.qmd
       - text: "Join"
         href: join.qmd
-      - text: "Code Repository"
-        href: repo.qmd
 
 
+filters:
+  - fontawesome
 
 format:
   html:

@@ -1,0 +1,27 @@
+---
+title: Grace Hodges
+last: Hodges
+first: Grace
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:grace.hodges@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Grace is a CRA in the Turner Lab and on the ARTEMIS project. Grace's research interests include the neuropsychological drivers of deviance and violence, as well as factors of resilience. Grace hopes to pursue a PhD in clinical psychology aligning with these interests. Outside of the lab, Grace enjoys crocheting, line and swing dancing, and spending time with her friends.
+

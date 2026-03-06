@@ -1,0 +1,27 @@
+---
+title: Prateek Palsule
+last: Palsule
+first: Prateek
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:prateek.Palsule@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Prateek is a Project Manager working for ARTEMIS under the umbrella of the Turner Lab. He is also in his last semester of the Master of Clinical Research (MCR) program at The Ohio State University. His research interests include exploring large scale applications of digital phenotyping and psychiatric symptoms in real world settings, along with supporting scalable mental health treatment initiatives. In his free time, he enjoys thinking about space travel, dinosaurs and aviation-along with traveling.
+

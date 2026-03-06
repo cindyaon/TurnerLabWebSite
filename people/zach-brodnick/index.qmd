@@ -1,0 +1,32 @@
+---
+title: Zach Brodnick
+last: Brodnick
+first: Zach
+people_group: gradstudent
+subtitle: Graduate Student
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:zachary.brodnick@osumc.edu
+    - icon: mortarboard 
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=TA3iEzEAAAAJ&hl=en&oi=ao
+    - icon: fa-brands-linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/zach-brodnick-a8415b234
+---
+
+<hr>
+
+
+:::{#about}
+
+Zach is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Currently, Zach’s research focuses on understanding the role of the cerebellum in aging, with a particular interest in how it relates to cognition and affect using structural and functional MRI. Outside the lab, Zach loves watching movies, trying new restaurants/coffee shops, traveling, and going to live sporting events and concerts. 

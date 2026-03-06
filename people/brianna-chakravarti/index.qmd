@@ -1,0 +1,26 @@
+---
+title: Brianna Chakravarti
+last: Chakravarti
+first: Bri
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:brianna.Chakravarti@osumc.edu
+---
+
+<hr>
+
+
+:::{#about}
+
+Bri is a Clinical Research Assistant for ARTEMIS and graduated from The Ohio State University with a Bachelors in Psychology and a minor in Child Abuse and Neglect. Her research interests include developing treatments for trauma-related disorders with a special interest in researching how childhood maltreatment can lead an individual to develop antisocial personality disorder (ASPD). Bri hopes to pursue either a PhD or PsyD in Clinical Psychology in the future to better serve those who have experienced trauma. Outside of work Bri loves to try new coffee shops, attend weekly farmers markets, travel, and spend time with her dog Bear!

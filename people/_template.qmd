@@ -1,0 +1,35 @@
+---
+title: Full Name
+last: Last Name
+first: First Name
+people_group: postdoc | gradstudent | researcher | undergrad | alumni
+subtitle: Postdoctoral Fellow | Graduate Student | Research Assistant | etc
+description: ""
+image: avatar.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: fa-brands-bluesky
+      text: Bluesky
+      href: bluesky link
+    - icon: mortarboard 
+      text: Google Scholar
+      href: google scholar link
+    - icon: fa-house 
+      text: Profile
+      href: website link
+    - icon: envelope
+      text: Email
+      href: mailto:email
+---
+
+<hr>
+
+
+:::{#about}
+
+Description
