@@ -15,7 +15,7 @@ Aging is marked by cognitive and affective changes with an increased risk for ne
 
 ### **Cerebellar Contributions to Psychotic Disorders**
 
-{blurb}
+Schizophrenia involves profound symptoms of psychosis, as well as affective and cognitive deficits, that emerge from disruptions in large-scale brain networks. Emerging evidence indicates that the cerebellum plays an important role in cognition and affect, but its directional influence on cortical circuitry is not well understood. Our research investigates the intrinsic activity and effective connectivity of the cerebellum using functional MRI. By mapping cerebellar alterations onto large-scale cortical and striatal networks and modeling directed interactions among these regions, we aim to clarify how cerebellar circuits reorganize in schizophrenia, and how this reorganization contributes to cortical dysfunction in schizophrenia. The goal of this work is to identify potential circuit-level targets for intervention.
 
 ### **Other Lab Projects**
 

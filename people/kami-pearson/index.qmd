@@ -18,13 +18,11 @@ about:
       href: mailto:kami.Pearson@osumc.edu
     - icon: mortarboard 
       text: Google Scholar
-      href: https://scholar.google.com/citations?hl=en&user=mgP_xO8AAAAJ
+      href: https://scholar.google.com/citations?hl=en&user=9euyaicAAAAJ
 ---
 
 <hr>
 
-
-:::{#about}
-
+::: {#about}
 Kami is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Kami’s research focuses on understanding cerebellar contributions to cortical network organization across the psychosis spectrum. She is particularly interested in how these network alterations contribute to key disease domains, including negative and cognitive symptoms. To address these questions, she uses effective connectivity modeling to characterize circuit-level interactions. Outside of research, Kami enjoys cooking, crocheting, and reading.
-
+:::

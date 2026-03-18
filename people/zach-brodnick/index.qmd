@@ -5,13 +5,13 @@ first: Zach
 people_group: gradstudent
 subtitle: Graduate Student
 description: ""
-image: avatar.jpg
+image: avatar.jpeg
 page-layout: full
 about: 
   id: about
   template: trestles
   image-shape: round
-  image: avatar.jpg
+  image: avatar.jpeg
   links:
     - icon: envelope
       text: Email
@@ -26,7 +26,6 @@ about:
 
 <hr>
 
-
-:::{#about}
-
-Zach is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Currently, Zach’s research focuses on understanding the role of the cerebellum in aging, with a particular interest in how it relates to cognition and affect using structural and functional MRI. Outside the lab, Zach loves watching movies, trying new restaurants/coffee shops, traveling, and going to live sporting events and concerts. 
+::: {#about}
+Zach is a PhD graduate student in The Ohio State University’s Neuroscience Graduate Program (NGP). Currently, Zach’s research focuses on understanding the role of the cerebellum in aging, with a particular interest in how it relates to cognition and affect using structural and functional MRI. Outside the lab, Zach loves watching movies, trying new restaurants/coffee shops, traveling, and going to live sporting events and concerts.
+:::

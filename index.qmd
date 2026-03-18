@@ -1,30 +1,36 @@
 ---
 title: "Welcome to the Turner Lab" 
 page-layout: full
-image: images/lab_logo_text
-about: 
-  template: jolla
 ---
+![](Images/lab_logo_text.png){width=50% fig-align="center"}
 
-![](Images/labphoto2025.jpg)
 
-*Lab Photo as of Spring 2025*
+![](Images/TurnerLab_Photo_Spring2026.jpeg)
 
-\*\*The Turner lab is a research lab at the Ohio State University in the Department of Psychiatry. The main mission of the lab is \_\_\_\_. Our goal is to \_\_\_.\*\*
+*Lab Photo as of Spring 2026*
+
+Our research focuses on understanding how brain structure and function relate to genetic, cognitive, and clinical factors, particularly in psychiatric and neurodegenerative disorders. We aim to integrate large‑scale neuroimaging, behavior, genetics, and advanced computational methods to identify the biological pathways that shape mental health.
 
 ## Research Areas
 
 **The brain is an ongoing puzzle!** Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more [here](research.qmd).
 
+::: gray-background
 ## Current Projects
 
 -   Cerebellar contributions to psychosis
+
 -   Cerebellum and aging
+
 -   Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
+
 -   Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
+:::
 
 ## Collaborators
 
--   List collaborators
+-   EPICENTER: [Research Labs and Ongoing Projects](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health/epicenter/research)
 
-University link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
+-   Faculty Link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
+
+-   C4N: [Center for Neuroimaging, Neurophenotyping, Neurocomputation, and Neuromodulation (C4N)](https://u.osu.edu/c4npsychiatry/)

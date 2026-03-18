@@ -2,26 +2,24 @@
 
 #### **Foundational papers for the lab**
 
-{insert paper citations that are important for the lab? BIDS Paper, ENIGMA Mega-Analyses... GWAS}
+1.  Pearson, K., Aberizk, K., An, C., Hodges, G., van Erp, T. G. M., Calhoun, V. D., & Turner, J. A. (2025). Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia. *Research Square*, rs.3.rs-7792823. <https://doi.org/10.21203/rs.3.rs-7792823/v1>
+
+2.  Turner, M. D., Appaji, A., Ar Rakib, N., Golnari, P., Rajasekar, A. K., K V, A. R., Sahoo, S. S., Wang, Y., Wang, L., & Turner, J. A. (2025). Large language models can extract metadata for annotation of human neuroimaging publications. *Frontiers in Neuroinformatics*, *19*. <https://doi.org/10.3389/fninf.2025.1609077>
+
+3.  Gupta, C. N., Turner, J. A., & Calhoun, V. D. (2018). Source-Based Morphometry: Data-Driven Multivariate Analysis of Structural Brain Imaging Data. In G. Spalletta, F. Piras, & T. Gili (Eds.), *Brain Morphometry* (pp. 105–120). Springer. <https://doi.org/10.1007/978-1-4939-7647-8_7>
+
+4.  Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P., Flandin, G., Ghosh, S. S., Glatard, T., Halchenko, Y. O., Handwerker, D. A., Hanke, M., Keator, D., Li, X., Michael, Z., Maumet, C., Nichols, B. N., Nichols, T. E., Pellman, J., … Poldrack, R. A. (2016). The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. *Scientific Data*, *3*(1), 160044. <https://doi.org/10.1038/sdata.2016.44>
+
+5.  Turner, J. A., & Laird, A. R. (2012). The Cognitive Paradigm Ontology: Design and Application. *Neuroinformatics*, *10*(1), 57–66. <https://doi.org/10.1007/s12021-011-9126-x>
 
 #### **Talks given by Dr. Turner!**
 
-{{< video https://youtu.be/KO2y6mC_rGA?si=5xEHG0G6mmFmYLOx 
-    title="The ENIGMA Schizophrenia Working Group"
->}}
+{{< video https://youtu.be/KO2y6mC_rGA?si=5xEHG0G6mmFmYLOx title="The ENIGMA Schizophrenia Working Group" >}}
 
-{{< video https://www.youtube.com/live/dKCNbKZxazw?si=NIXcfc4C5Pb-l0EA 
-    title="The ENIGMA and COINSTAC: Decentralized Meta Analysis"
->}}
+{{< video https://www.youtube.com/watch?v=NCYpHMqifS4&t=1s title="Imaging Genetics from a Worldwide Perspective" >}}
 
-{{< video https://www.youtube.com/watch?v=NCYpHMqifS4&t=1s
-    title="Imaging Genetics from a Worldwide Perspective"
->}}
+{{< video https://www.youtube.com/watch?v=m2lZpjBMnic&t=1s title="ENIGMA: Big Data in Clinical Neuroimaging" >}}
 
-{{< video https://www.youtube.com/watch?v=m2lZpjBMnic&t=1s
-    title="ENIGMA: Big Data in Clinical Neuroimaging"
->}}
+{{< video https://youtu.be/r_gC9ZgS-EA?si=PhLwC3XHdbyFYGPA title="Stepping Stones: Dr. Turner's Academic Path" >}}
 
-{{< video https://youtu.be/r_gC9ZgS-EA?si=PhLwC3XHdbyFYGPA 
-    title="Stepping Stones: Dr. Turner's Academic Path"
->}}
+{{< video https://www.youtube.com/watch?v=dKCNbKZxazw title="ENIGMA and Coinstac: Turning small datasets into big ones" >}}

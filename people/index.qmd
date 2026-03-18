@@ -57,52 +57,38 @@ listing:
 page-layout: full
 ---
 
-
 ## Principal Investigator
-
 
 ::: {#pi}
 :::
 
-
-:::{.gray-background}
+:::: gray-background
 ## Postdoctoral Fellows
-
-
 
 ::: {#postdoc}
 :::
-
-:::
+::::
 
 ## Graduate Students
 
 ::: {#gradstudent}
 :::
 
-:::{.gray-background}
+:::: gray-background
 ## Research Scientists
-
-
 
 ::: {#researcher}
 :::
+::::
 
-:::
-
-<!-- ## Undergraduate Students
+## Undergraduate Students
 
 ::: {#undergrad}
-::: -->
+:::
 
-:::{.gray-background}
+:::: gray-background
 ## Alumni
-
-
 
 ::: {#alumni}
 :::
-
-:::
-
-
+::::

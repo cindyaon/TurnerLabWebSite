@@ -5,13 +5,13 @@ first: Cindy
 people_group: undergrad
 subtitle: Undergraduate Research Assistant
 description: ""
-image: avatar.jpg
+image: avatar.jpeg
 page-layout: full
 about: 
   id: about
   template: trestles
   image-shape: round
-  image: avatar.jpg
+  image: avatar.jpeg
   links:
     - icon: fa-brands-bluesky
       text: Bluesky
@@ -22,13 +22,13 @@ about:
     - icon: envelope
       text: Email
       href: mailto:cindy.An@osumc.edu
+    - icon: fa-brands-linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cindyan1011
 ---
 
 <hr>
 
-
-:::{#about}
-
+::: {#about}
 Cindy is an ADNiR fellow working for the Turner lab. She is earning a Bachelors in Computational Neuroscience and Psychology with a minor in statistics at The Ohio State University and will graduate in 2027. Her research interests include uncovering the neurological underpinnings of suicidal behavior and psychosis to inform development of individualized treatments. Cindy hopes to pursue a PhD in clinical psychology following these interests. In her free time, she loves making oil paintings of desserts.
-
-
+:::

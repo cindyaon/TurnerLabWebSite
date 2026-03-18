@@ -16,12 +16,13 @@ about:
     - icon: envelope
       text: Email
       href: mailto:behnoosh.Shahsavaripoor@osumc.edu
+    - icon: fa-brands-linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/behnoosh-shahsavaripoor
 ---
 
 <hr>
 
-
-:::{#about}
-
-Behnoosh is a postdoctoral research fellow at The Ohio State University, with extensive experience in clinical trials and psychiatric research. Her current work focuses on the neurobiological mechanisms of psychosis and emerging psychiatric disorders, with the goal of improving psychopharmacological treatments. She has been involved in randomized controlled trials and data analysis and has authored several peer-reviewed publications. In her free time, Behnoosh enjoys strength training, music, and movies. She has a strong interest in history and different cultures and enjoys exploring them through podcasts, museums, and travel. 
-
+::: {#about}
+Behnoosh is a postdoctoral research fellow at The Ohio State University, with extensive experience in clinical trials and psychiatric research. Her current work focuses on the neurobiological mechanisms of psychosis and emerging psychiatric disorders, with the goal of improving psychopharmacological treatments. She has been involved in randomized controlled trials and data analysis and has authored several peer-reviewed publications. In her free time, Behnoosh enjoys strength training, music, and movies. She has a strong interest in history and different cultures and enjoys exploring them through podcasts, museums, and travel.
+:::
