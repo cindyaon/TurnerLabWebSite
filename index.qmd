@@ -5,9 +5,9 @@ page-layout: full
 ![](Images/lab_logo_text.png){width=50% fig-align="center"}
 
 
-![](Images/labphoto2025.jpg)
+![](Images/TurnerLab_Photo_Spring2026.jpeg)
 
-*Lab Photo as of Spring 2025*
+*Lab Photo as of Spring 2026*
 
 Our research focuses on understanding how brain structure and function relate to genetic, cognitive, and clinical factors, particularly in psychiatric and neurodegenerative disorders. We aim to integrate large‑scale neuroimaging, behavior, genetics, and advanced computational methods to identify the biological pathways that shape mental health.
 
