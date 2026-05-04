@@ -9,9 +9,9 @@ listing:
     template: ../_ejs/people-box.ejs
     type: grid
     fields: [title, subtitle, image]
-  - id: postdoc
+  - id: ResearchScientist
     include: 
-      people_group: "postdoc"
+      people_group: "ResearchScientist"
     exclude:
       external: true
     template: ../_ejs/people-box.ejs
@@ -63,9 +63,9 @@ page-layout: full
 :::
 
 :::: gray-background
-## Postdoctoral Fellows
+## Research Scientists
 
-::: {#postdoc}
+::: {#ResearchScientist}
 :::
 ::::
 
@@ -75,13 +75,13 @@ page-layout: full
 :::
 
 :::: gray-background
-## Research Scientists
+## Research Assistants
 
 ::: {#researcher}
 :::
 ::::
 
-## Undergraduate Students
+## Undergraduate Researchers
 
 ::: {#undergrad}
 :::

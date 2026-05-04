@@ -2,8 +2,8 @@
 title: Behnoosh Shahsavaripoor
 last: Shahsavaripoor
 first: Behnoosh
-people_group: postdoc
-subtitle: Postdoctoral Fellow
+people_group: alumni
+subtitle: Alumni
 description: ""
 image: avatar.jpg
 page-layout: full

@@ -2,8 +2,8 @@
 title: Mahmoud Rashidi
 last: Rashidi
 first: Mahmoud
-people_group: postdoc
-subtitle: Postdoctoral Fellow
+people_group: ResearchScientist
+subtitle: Research Scientist
 description: ""
 image: avatar.jpg
 page-layout: full
