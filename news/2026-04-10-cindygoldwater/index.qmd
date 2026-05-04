@@ -1,0 +1,6 @@
+---
+title: "Cindy An awarded Goldwater Scholarship!"
+date: '2026-04-10'
+image: goldwater.png
+description: 3rd year undegraduate, Cindy An, was 1 of 8 awardess in the field of Psychology for the Goldwater Scholarship! The Goldwater Scholarship is one of the nation's most prestigious awards for undergraduate research in STEM. You can see more details on the [Goldwater Website](https://goldwaterscholarship.gov).
+---
