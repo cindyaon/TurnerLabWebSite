@@ -2,8 +2,8 @@
 title: "Welcome to the Turner Lab" 
 page-layout: full
 ---
-![](Images/lab_logo_text.png){width=50% fig-align="center"}
 
+![](Images/lab_logo_text.png){width="50%" fig-align="center"}
 
 ![](Images/TurnerLab_Photo_Spring2026.jpeg)
 
