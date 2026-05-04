@@ -1,0 +1,25 @@
+---
+title: Abdulla Mutraji
+last: Mutraji
+first: Abdulla
+people_group: researcher
+subtitle: Research Staff
+description: ""
+image: avatar.jpg
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Abdulla.Mutraji@osumc.edu
+---
+
+<hr>
+
+::: {#about}
+Abdulla is a Research Assistant in the Turner Lab at The Ohio State University. He earned his medical degree from Ankara University Faculty of Medicine. His interests lie in psychosis research, especially in understanding the neurobiology of psychiatric disorders and how this work can lead to more thoughtful and effective clinical care. He hopes to build a career at the intersection of clinical psychiatry and research. Outside of the lab, he enjoys cooking, baking, and spending time outdoors.
+:::
