@@ -1,0 +1,70 @@
+---
+title: Publications and Presentations
+listing:
+ - id: talks
+   include: 
+     pres_group: "talks"
+   type: grid
+   sort: "date"
+   sort-ui: true
+   filter-ui: true
+   page-size: 100
+   fields: [image, date, title]
+ - id: publications
+   include: 
+     pres_group: "publications"
+   type: grid
+   sort: "date"
+   sort-ui: true
+   filter-ui: true
+   page-size: 100
+   fields: [image, date, title, primary_author]
+ - id: presentations
+   include: 
+     pres_group: "presentations"
+   type: grid
+   sort: "date desc"
+   sort-ui: true
+   filter-ui: true
+   page-size: 100
+   fields: [image, date, title, presenter, event]
+page-layout: full
+title-block-banner: false
+field-display-names:
+  presenter: "Presenter"
+  primary_author: "Primary Author"
+  event: "Conference"
+---
+
+Presentations, publications, and talks from the lab.
+
+
+## **Foundational papers for the lab**
+
+1.  Pearson, K., Aberizk, K., An, C., Hodges, G., van Erp, T. G. M., Calhoun, V. D., & Turner, J. A. (2025). Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia. *Research Square*, rs.3.rs-7792823. <https://doi.org/10.21203/rs.3.rs-7792823/v1>
+
+2.  Turner, M. D., Appaji, A., Ar Rakib, N., Golnari, P., Rajasekar, A. K., K V, A. R., Sahoo, S. S., Wang, Y., Wang, L., & Turner, J. A. (2025). Large language models can extract metadata for annotation of human neuroimaging publications. *Frontiers in Neuroinformatics*, *19*. <https://doi.org/10.3389/fninf.2025.1609077>
+
+3.  Gupta, C. N., Turner, J. A., & Calhoun, V. D. (2018). Source-Based Morphometry: Data-Driven Multivariate Analysis of Structural Brain Imaging Data. In G. Spalletta, F. Piras, & T. Gili (Eds.), *Brain Morphometry* (pp. 105–120). Springer. <https://doi.org/10.1007/978-1-4939-7647-8_7>
+
+4.  Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P., Flandin, G., Ghosh, S. S., Glatard, T., Halchenko, Y. O., Handwerker, D. A., Hanke, M., Keator, D., Li, X., Michael, Z., Maumet, C., Nichols, B. N., Nichols, T. E., Pellman, J., … Poldrack, R. A. (2016). The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. *Scientific Data*, *3*(1), 160044. <https://doi.org/10.1038/sdata.2016.44>
+
+5.  Turner, J. A., & Laird, A. R. (2012). The Cognitive Paradigm Ontology: Design and Application. *Neuroinformatics*, *10*(1), 57–66. <https://doi.org/10.1007/s12021-011-9126-x>
+
+
+
+## Talks given by Dr. Turner
+
+::: {#talks}
+:::
+
+## Publications
+
+::: {#publications}
+:::
+
+## Presentations
+
+::: {#presentations}
+:::
+

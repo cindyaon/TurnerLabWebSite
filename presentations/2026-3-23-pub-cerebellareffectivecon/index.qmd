@@ -1,0 +1,9 @@
+---
+title: Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia
+pres_group: publications
+date: '2026-03-23'
+description: Kami Pearson, Katrina Aberizk, Cindy An, Grace Hodges, Theo GM van Erp, Vince D Calhoun, Jessica A Turner
+page-layout: full
+---
+
+Pearson, K., Aberizk, K., An, C. et al. Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia. Cerebellum 25, 38 (2026). https://doi.org/10.1007/s12311-026-01983-7

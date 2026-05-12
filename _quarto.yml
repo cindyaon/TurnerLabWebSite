@@ -36,8 +36,8 @@ website:
         href: people/index.qmd
       - text: "Research"
         href: research.qmd
-      - text: "Publications & Talks"
-        href: pubs_talks.qmd
+      - text: "Publications & Presentations"
+        href: presentations/index.qmd
       - text: "News"
         href: news/index.qmd
       - text: "Join"

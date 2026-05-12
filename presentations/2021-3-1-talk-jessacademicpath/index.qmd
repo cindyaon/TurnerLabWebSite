@@ -1,0 +1,10 @@
+---
+title: Stepping Stones: Dr. Turner's Academic Path
+pres_group: talks
+date: '2021-03-01'
+description: Jessica Turner
+image: talk.png
+page-layout: full
+---
+
+{{< video https://youtu.be/r_gC9ZgS-EA?si=PhLwC3XHdbyFYGPA title="Stepping Stones: Dr. Turner's Academic Path" >}}

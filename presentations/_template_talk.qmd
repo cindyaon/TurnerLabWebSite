@@ -1,0 +1,10 @@
+---
+title: TITLE
+pres_group: talks
+date: 'YEAR-MONTH-DAY'
+description: Talk Presenter
+image: talk.png # image representing the talk
+page-layout: full
+---
+
+{{< video YOUTUBELINK title="TITLE" >}}

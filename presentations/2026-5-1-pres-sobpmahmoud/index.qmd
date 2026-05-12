@@ -1,0 +1,17 @@
+---
+title: Cerebellar Structural Network Differentiates Schizophrenia from Bipolar Disorder and Controls
+presenter: Mahmoud Rashidi
+pres_group: presentations
+date: '2026-05-01'
+event: SOBP 2026
+description: Mahmoud Rashidi, Jayden Morales, Vince D. Calhoun, Bryon A. Mueller, Caroline Demro, Scott R. Sponheim, Jessica A. Turner
+image: presentation.jpg
+page-layout: full
+---
+
+![](presentation.jpg){width="100%" fig-align="center"}
+
+
+![](mahmoudpresent.jpeg){fig-align="center"}
+
+

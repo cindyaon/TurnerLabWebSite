@@ -1,0 +1,10 @@
+---
+title: Imaging Genetics from a Worldwide Perspective
+pres_group: talks
+date: '2025-06-01'
+description: Jessica Turner
+image: talk.png
+page-layout: full
+---
+
+{{< video https://www.youtube.com/watch?v=NCYpHMqifS4&t=1s title="Imaging Genetics from a Worldwide Perspective" >}}

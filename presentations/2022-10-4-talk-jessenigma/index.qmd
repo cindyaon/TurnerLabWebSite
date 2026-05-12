@@ -1,0 +1,10 @@
+---
+title: ENIGMA - Big Data in Clinical Neuroimaging
+pres_group: talks
+date: '2022-10-04'
+description: Jessica Turner
+image: talk.png
+page-layout: full
+---
+
+{{< video https://www.youtube.com/watch?v=m2lZpjBMnic&t=1s title="ENIGMA: Big Data in Clinical Neuroimaging" >}}

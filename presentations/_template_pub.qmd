@@ -1,0 +1,9 @@
+---
+title: TITLE
+pres_group: publications
+date: 'YEAR-MONTH-DAY'
+description: AUTHOR LIST
+page-layout: full
+---
+
+CITATION
