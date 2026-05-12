@@ -10,15 +10,6 @@ listing:
    filter-ui: true
    page-size: 12
    fields: [image, date, title]
- - id: publications
-   include: 
-     pres_group: "publications"
-   type: grid
-   sort: "date"
-   sort-ui: true
-   filter-ui: true
-   page-size: 12
-   fields: [image, date, title, primary_author]
  - id: presentations
    include: 
      pres_group: "presentations"
@@ -28,6 +19,15 @@ listing:
    filter-ui: true
    page-size: 12
    fields: [image, date, title, presenter, event]
+  - id: publications
+   include: 
+     pres_group: "publications"
+   type: grid
+   sort: "date"
+   sort-ui: true
+   filter-ui: true
+   page-size: 24
+   fields: [image, date, title, primary_author]
 page-layout: full
 title-block-banner: false
 field-display-names:
