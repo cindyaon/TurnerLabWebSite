@@ -1,0 +1,10 @@
+---
+title: "TITLE"
+primary_author: FIRST AUTHOR FULL NAME
+pres_group: publications
+date: 'YEAR-MONTH-DAY'
+description: AUTHOR LIST
+page-layout: full
+---
+
+CITATION

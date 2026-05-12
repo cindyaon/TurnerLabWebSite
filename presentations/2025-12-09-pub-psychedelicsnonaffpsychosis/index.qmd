@@ -1,0 +1,10 @@
+---
+title: "How do psychedelics impact people with a history of non-affective psychosis? A qualitative study"
+primary_author: Haley Maria Dourron
+pres_group: publications
+date: '2025-12-09'
+description: "Haley Maria Dourron, Heith Copes, Daniel H Grossman, Melissa Bradley, Christopher R Nicholas, Jessica A Turner, Gaige Allen-Clark, Maggie Gossage, Peter S Hendricks"
+page-layout: full
+---
+
+Dourron, H. M., Copes, H., Grossman, D. H., Bradley, M., Nicholas, C. R., Turner, J. A., Allen-Clark, G., Gossage, M., & Hendricks, P. S. (2025). How do psychedelics impact people with a history of non-affective psychosis? A qualitative study. Frontiers in psychiatry, 16, 1716545. https://doi.org/10.3389/fpsyt.2025.1716545

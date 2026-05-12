@@ -1,0 +1,10 @@
+---
+title: "The dynamics of social gaze: Visual attention and autonomic arousal among individuals with varying levels of autistic traits"
+primary_author: Serena DeStefani
+pres_group: publications
+date: '2026-03-01'
+description: "Serena DeStefani, Scott D Blain, Jacob D Kraft, Laura Locarno, Kelly Mathis, Carly A Lasagna, Costanza Colombi, Cynthia Z Burton, Jessica A Turner, Katharine N Thakkar, Ivy F Tso"
+page-layout: full
+---
+
+DeStefani, S., Blain, S. D., Kraft, J. D., Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Turner, J. A., Thakkar, K. N., & Tso, I. F. (2026). The dynamics of social gaze: Visual attention and autonomic arousal among individuals with varying levels of autistic traits. Research in Autism, 131, 202821. https://doi.org/10.1016/j.reia.2026.202821

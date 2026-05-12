@@ -1,0 +1,10 @@
+---
+title: "Large language models can extract metadata for annotation of human neuroimaging publications"
+primary_author: Matthew D Turner
+pres_group: publications
+date: '2025-08-20'
+description: "Matthew D Turner, Abhishek Appaji, Nibras Ar Rakib, Pedram Golnari, Arcot K Rajasekar, Anitha Rathnam KV, Satya S Sahoo, Yue Wang, Lei Wang, Jessica A Turner"
+page-layout: full
+---
+
+Turner, M. D., Appaji, A., Rakib, N. A., Golnari, P., Rajasekar, A. K., Rathnam, K. V. A., Sahoo, S. S., Wang, Y., Wang, L., & Turner, J. A. (2025). Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications. bioRxiv : the preprint server for biology, 2025.05.13.653828. https://doi.org/10.1101/2025.05.13.653828

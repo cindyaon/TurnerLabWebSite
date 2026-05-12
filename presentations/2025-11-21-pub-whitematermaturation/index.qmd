@@ -1,0 +1,10 @@
+---
+title: "Adolescent White Matter Maturation Mediates Epigenetic Associations With Cognitive Development"
+primary_author: Dawn Jensen
+pres_group: publications
+date: '2025-11-21'
+description: "Dawn Jensen, Jiayu Chen, Jessica A Turner, Julia M Stephen, Yu‐Ping Wang, Tony W Wilson, Vince D Calhoun, Jingyu Liu"
+page-layout: full
+---
+
+Jensen, Dawn & Chen, Jiayu & Turner, Jessica & Stephen, Julia & Wang, Yu-Ping & Wilson, Tony & Calhoun, Vince & Liu, Jingyu. (2025). Adolescent White Matter Maturation Mediates Epigenetic Associations With Cognitive Development. Developmental Neurobiology. 86. 10.1002/dneu.70000. 

@@ -1,0 +1,10 @@
+---
+title: "ENIGMA-Meditation: Worldwide consortium for neuroscientific investigations of meditation practices"
+primary_author: Saampras Ganesan
+pres_group: publications
+date: '2025-04-01'
+description: "Saampras Ganesan, Fernando A Barrios, Ishaan Batta, Clemens CC Bauer, Todd S Braver, Judson A Brewer, Kirk Warren Brown, Rael Cahn, Joshua A Cain, Vince D Calhoun, Lei Cao, Gaël Chetelat, Christopher RK Ching, J David Creswell, Paulina Clara Dagnino, Svend Davanger, Richard J Davidson, Gustavo Deco, Janine M Dutcher, Anira Escrichs, Lisa T Eyler, Negar Fani, Norman AS Farb, Suruchi Fialoke, David M Fresco, Rahul Garg, Eric L Garland, Philippe Goldin, Danella M Hafeman, Neda Jahanshad, Yoona Kang, Sahib S Khalsa, Namik Kirlic, Sara W Lazar, Antoine Lutz, Timothy J McDermott, Giuseppe Pagnoni, Camille Piguet, Ruchika S Prakash, Hadley Rahrig, Nicco Reggente, Luigi F Saccaro, Matthew D Sacchet, Greg J Siegle, Yi-Yuan Tang, Sophia I Thomopoulos, Paul M Thompson, Alyssa Torske, Isaac N Treves, Vaibhav Tripathi, Aki Tsuchiyagaito, Matthew D Turner, David R Vago, Sofie Valk, Fadel Zeidan, Andrew Zalesky, Jessica A Turner, Anthony P King"
+page-layout: full
+---
+
+Ganesan, S., Barrios, F. A., Batta, I., Bauer, C. C. C., Braver, T. S., Brewer, J. A., Brown, K. W., Cahn, R., Cain, J. A., Calhoun, V. D., Cao, L., Chetelat, G., Ching, C. R. K., Creswell, J. D., Dagnino, P. C., Davanger, S., Davidson, R. J., Deco, G., Dutcher, J. M., Escrichs, A., … King, A. P. (2025). ENIGMA-Meditation: Worldwide Consortium for Neuroscientific Investigations of Meditation Practices. Biological psychiatry. Cognitive neuroscience and neuroimaging, 10(4), 425–436. https://doi.org/10.1016/j.bpsc.2024.10.015

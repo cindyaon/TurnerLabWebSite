@@ -1,0 +1,10 @@
+---
+title: "An ENIGMA Consortium study of the relationship between white matter microstructure and positive and negative symptom severity in patients with schizophrenia"
+primary_author: Aoife Warren
+pres_group: publications
+date: '2026-03-06'
+description: "Aoife Warren, Laurena Holleran, Ingrid Agartz, Ole A Andreassen, Nerisa Banaj, Dara M Cannon, Aiden Corvin, Melissa Green, Ruben Gur, Ryota Hashimoto, Elliot Hong, Cyril Hoschl, Peter Kochunov, Stephen M Lawrie, Colm McDonald, Derek Morris, David Mothersill, Emma Neilson, Christos Pantelis, Fabrizio Piras, Paul E Rasser, David Roalf, Theodore D Satterthwaite, Ulrich Schall, Kang Sim, Antonin Skoch, Gianfranco Spalletta, Filip Spaniel, Sophia Thomopoulos, David Tomecek, Andrew Zalesky, Paul M Thompson, Neda Jahanshad, Jessica A Turner, Theo GM van Erp, Gary Donohoe, ENIGMA Consortium Schizophrenia Working Group van Erp Theo GM 19 20 On behalf of the ENIGMA Consortium Schizophrenia Working Group"
+page-layout: full
+---
+
+Warren, A., Holleran, L., Agartz, I., Andreassen, O. A., Banaj, N., Cannon, D. M., Corvin, A., Green, M., Gur, R., Hashimoto, R., Hong, E., Hoschl, C., Kochunov, P., Lawrie, S. M., McDonald, C., Morris, D., Mothersill, D., Neilson, E., Pantelis, C., Piras, F., … ENIGMA Consortium Schizophrenia Working Group (2026). An ENIGMA Consortium study of the relationship between white matter microstructure and positive and negative symptom severity in patients with schizophrenia. Schizophrenia (Heidelberg, Germany), 12(1), 38. https://doi.org/10.1038/s41537-026-00728-z

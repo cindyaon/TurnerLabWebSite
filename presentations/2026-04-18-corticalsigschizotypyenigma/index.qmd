@@ -1,0 +1,10 @@
+---
+title: "Multiscale characterization of cortical signatures in positive and negative schizotypy: A worldwide ENIGMA study"
+primary_author: Matthias Kirschner
+pres_group: publications
+date: '2026-04-18'
+description: "Matthias Kirschner, Benazir Hodzic-Santor, Leda Kennedy, Justine Y Hansen, Mathilde Antoniades, Igor Nenadić, Tilo Kircher, Axel Krug, Tina Meller, Udo Dannlowski, Dominik Grotegerd, Kira Flinkenflügel, Susanne Meinert, Tiana Borgers, Janik Goltermann, Tim Hahn, Joscha Böhnlein, Elisabeth J Leehr, Carlotta Barkhau, Alex Fornito, Aurina Arnatkeviciute, Mark A Bellgrove, Jeggan Tiego, Pamela DeRosse, Melissa Green, Yann Quidé, Christos Pantelis, Raymond CK Chan, Yi Wang, Ulrich Ettinger, Martin Debbané, Melodie Derome, Christian Gaser, Bianca Besteher, Kelly Diederen, Tom J Spencer, Josselin Houenou, Edith Pomarol-Clotet, Raymond Salvador, Wulf Rössler, Lukasz Smigielski, Veena Kumari, Preethi Premkumar, Haeme RP Park, Kristina Wiebels, Imke Jansen, James Gilleen, Paul Allen, Jan-Bernard Marsman, Irina Lebedeva, Alexander Tomyshev, Anne-Kathrin Fett, Iris Sommer, Sanne Koops, Phillip Grant, Asia Ferrari, Bin Wan, Indrit Bègue, Dennis Hernaus, Maria Jalbrzikowski, Casey Paquola, Sara Larivière, Boris Bernhardt, Sofie L Valk, Bratislav Misic, Theo GM van Erp, Jessica A Turner, Paul M Thompson, Andre Aleman, Alain Dagher, Stefan Kaiser, Gemma Modinos"
+page-layout: full
+---
+
+Kirschner, M., Hodzic-Santor, B., Kennedy, L., Hansen, J. Y., Antoniades, M., Nenadić, I., Kircher, T., Krug, A., Meller, T., Dannlowski, U., Grotegerd, D., Flinkenflügel, K., Meinert, S., Borgers, T., Goltermann, J., Hahn, T., Böhnlein, J., Leehr, E. J., Barkhau, C., Fornito, A., … Modinos, G. (2026). Multiscale characterization of cortical signatures in positive and negative schizotypy: a worldwide ENIGMA study. Molecular psychiatry, 10.1038/s41380-026-03547-x. Advance online publication. https://doi.org/10.1038/s41380-026-03547-x

@@ -1,0 +1,15 @@
+---
+title: "TITLE"
+presenter: PRESENTER NAME
+pres_group: presentations
+date: 'YEAR-MONTH-DAY'
+event: CONFERENCE NAME AND YEAR
+description: AUTHOR LIST
+image: presentation.jpg # image representing presentation
+page-layout: full
+---
+
+![](presentation.jpg){width="100%" fig-align="center"}
+
+
+

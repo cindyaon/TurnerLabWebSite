@@ -19,4 +19,4 @@ Schizophrenia involves profound symptoms of psychosis, as well as affective and 
 
 ### **Other Lab Projects**
 
-The lab is currently collecting data for the **Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States (ARTEMIS**) Study as well as being involved in the **Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA)** Schizophrenia ([ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/))
+The lab is currently collecting data for the **Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States** ([ARTEMIS](https://artemis-study.org)) Study as well as being involved in the **Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA)** Schizophrenia ([ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/))

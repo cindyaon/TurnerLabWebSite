@@ -1,0 +1,10 @@
+---
+title: "Time‐Varying Spatial Propagation of Brain Networks in fMRI Data"
+primary_author: Biozid Bostami
+pres_group: publications
+date: '2025-02-01'
+description: "Biozid Bostami, Noah Lewis, Oktay Agcaoglu, Jessica A Turner, Theo van Erp, Judith M Ford, Mahshid Fouladivanda, Vince Calhoun, Armin Iraji"
+page-layout: full
+---
+
+Bostami, B., Lewis, N., Agcaoglu, O., Turner, J. A., van Erp, T., Ford, J. M., Fouladivanda, M., Calhoun, V., & Iraji, A. (2025). Time-Varying Spatial Propagation of Brain Networks in fMRI Data. Human brain mapping, 46(2), e70131. https://doi.org/10.1002/hbm.70131

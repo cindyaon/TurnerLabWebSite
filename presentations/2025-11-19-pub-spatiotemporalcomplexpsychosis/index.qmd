@@ -1,0 +1,10 @@
+---
+title: "Spatiotemporal complexity in the psychotic brain"
+primary_author: Qiang Li
+pres_group: publications
+date: '2025-11-19'
+description: "Qiang Li, Jingyu Liu, Godfrey D Pearlson, Jiayu Chen, Yu-Ping Wang, Jessica A Turner, Vince D Calhoun"
+page-layout: full
+---
+
+Li, Q., Liu, J., Pearlson, G.D. et al. Spatiotemporal complexity in the psychotic brain. Mol Psychiatry 31, 2014–2028 (2026).  https://doi.org/10.1038/s41380-025-03367-5

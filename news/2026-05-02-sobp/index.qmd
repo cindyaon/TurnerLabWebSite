@@ -1,0 +1,8 @@
+---
+title: "Turner Lab heads to NYC for SOBP 2026!"
+date: '2026-05-02'
+image: nyc_dinner_2.jpg
+description: Lab members Dr. Mahmoud Rashidi, Grace Hodges, Cindy An, Kami Pearson, and Zachary Brodnick presented posters at SOBP 2026. Special thanks to Dr. Lindsay Oliver for stopping by the lab dinner!
+---
+
+![](nyc_dinner_2.jpg){width="100%" fig-align="center"}

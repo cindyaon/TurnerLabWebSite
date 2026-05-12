@@ -1,0 +1,10 @@
+---
+title: "ID# 1904349 Cranial Electrotherapy Stimulation for Fibromyalgia, Using Brain Imaging Biomarkers"
+primary_author: Jason Ramos
+pres_group: publications
+date: '2025-10-01'
+description: "Jason Ramos, Chance Denmon, Anna Ree, Yimeng Zhang, Reema Martini, Jennifer Stevens, Sheila Rauch, Xiangqin Cui, Jessica Turner, Roman Sniecinski, Vitaly Napadow, Anna Woodbury"
+page-layout: full
+---
+
+Ramos, J., Denmon, C., Ree, A., Zhang, Y., Martini, R., Stevens, J., Rauch, S., Cui, X., Turner, J., Sniecinski, R., Napadow, V., & Woodbury, A. (2025). ID# 1904349 Cranial Electrotherapy Stimulation for Fibromyalgia, Using Brain Imaging Biomarkers. Neuromodulation: Technology at the Neural Interface, 28(7), S73. https://doi.org/10.1016/j.neurom.2025.08.137

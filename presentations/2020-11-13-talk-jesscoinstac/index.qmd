@@ -1,0 +1,10 @@
+---
+title: "ENIGMA and COINSTAC: Turning small datasets into big ones"
+pres_group: talks
+date: '2020-11-13'
+description: Jessica Turner
+image: talk.png
+page-layout: full
+---
+
+{{< video https://www.youtube.com/watch?v=dKCNbKZxazw title="ENIGMA and Coinstac: Turning small datasets into big ones" >}}

@@ -1,0 +1,10 @@
+---
+title: "Functionally adaptive structural basis sets of the brain: A dynamic fusion approach"
+primary_author: Marlena Duda
+pres_group: publications
+date: '2025-08-01'
+description: "Marlena Duda, Jiayu Chen, Aysenil Belger, Judith Ford, Daniel Mathalon, Adrian Preda, Jessica Turner, Theo Van Erp, Godfrey Pearlson, Vince D Calhoun"
+page-layout: full
+---
+
+Duda, M., Chen, J., Belger, A., Ford, J., Mathalon, D., Preda, A., Turner, J., Van Erp, T., Pearlson, G., & Calhoun, V. D. (2025). Functionally Adaptive Structural Basis Sets of the Brain: A Dynamic Fusion Approach. Human brain mapping, 46(11), e70302. https://doi.org/10.1002/hbm.70302

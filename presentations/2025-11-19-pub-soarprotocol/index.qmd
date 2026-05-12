@@ -1,0 +1,10 @@
+---
+title: "State of Ohio Adversity and Resilience (SOAR) study protocol: a comprehensive, multimodal, family-based, longitudinal observational investigation of risk and resilience in mental health and substance use disorders"
+primary_author: Anthony P King
+pres_group: publications
+date: '2025-11-19'
+description: "Anthony P King, Scott Langenecker, Stephanie M Gorka, Jessica Turner, Lei Wang, Heather Wastler, Marybel Gonzalez, Lisa M Christian, Canada Keck, Randall Olsen, Hyoshin Kim, Brett Klamer, Soledad Fernandez, Caleb Adler, Elissar Andari, Stacey L Barrenger, Natalie Bonfine, Melanie Bozzay, Susan L Brown, Christopher Browning, Katie Burkhouse, Kathleen Carter, Kim Cecil, Karin G Coifman, Emil Coccaro, Timothy N Crawford, Cory Cronin, Melissa Delbello, Anne-Marie Duchemin, Steven W Evans, Chris Flask, K Jean Forney, Larrilyn Grant, John Gunstad, Paul J Hershberger, Kristen R Hoskinson, Christina Klein, Sara Koenig, Molly McVoy, Paula K Miller, Jose Moreno, Eric E Nelson, Randolph Nesse, Christopher Nguyen, Kei Nomaguchi, Alissa Paolella, Edison Perdomo, Colin Odden, Martha Sajatovic, Robert McCullumsmith, Jonathan Trauth, Ivy Tso, Xin Wang, Jennifer T Weinandy, Krista K Westrick-Payne, Greta Winbush, Brian T Wymbs, Hong Xie, Steve Gavazzi, Timothy R Huerta, Grace Maynard-Wentzel, Nina Kraguljac, K Luan Phan"
+page-layout: full
+---
+
+King, A. P., Langenecker, S., Gorka, S. M., Turner, J., Wang, L., Wastler, H., Gonzalez, M., Christian, L. M., Keck, C., Olsen, R., Kim, H., Klamer, B., Fernandez, S., Adler, C., Andari, E., Barrenger, S. L., Bonfine, N., Bozzay, M., Brown, S. L., Browning, C., … Phan, K. L. (2025). State of Ohio Adversity and Resilience (SOAR) study protocol: a comprehensive, multimodal, family-based, longitudinal observational investigation of risk and resilience in mental health and substance use disorders. BMJ open, 15(11), e099525. https://doi.org/10.1136/bmjopen-2025-099525
