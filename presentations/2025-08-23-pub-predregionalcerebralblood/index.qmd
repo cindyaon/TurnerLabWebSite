@@ -1,0 +1,10 @@
+---
+title: "Predicting Regional Cerebral Blood Flow Using Voxel-Wise Resting-State Functional MRI"
+primary_author: Hongjie Ke
+pres_group: publications
+date: '2025-08-23'
+description: "Hongjie Ke, Bhim M Adhikari, Yezhi Pan, David B Keator, Daniel Amen, Si Gao, Yizhou Ma, Paul M Thompson, Neda Jahanshad, Jessica A Turner, Theo GM van Erp, Mohammed R Milad, Jair C Soares, Vince D Calhoun, Juergen Dukart, L Elliot Hong, Tianzhou Ma, Peter Kochunov"
+page-layout: full
+---
+
+Ke, H., Adhikari, B. M., Pan, Y., Keator, D. B., Amen, D., Gao, S., Ma, Y., Thompson, P. M., Jahanshad, N., Turner, J. A., van Erp, T. G. M., Milad, M. R., Soares, J. C., Calhoun, V. D., Dukart, J., Hong, L. E., Ma, T., & Kochunov, P. (2025). Predicting Regional Cerebral Blood Flow Using Voxel-Wise Resting-State Functional MRI. Brain sciences, 15(9), 908. https://doi.org/10.3390/brainsci15090908

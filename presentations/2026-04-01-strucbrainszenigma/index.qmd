@@ -1,0 +1,10 @@
+---
+title: "Structural brain abnormalities and aggression in schizophrenia: mega-analysis of data from 2095 patients and 2861 healthy controls via the ENIGMA consortium"
+primary_author: Jelle Lamsma
+pres_group: publications
+date: '2026-04-01'
+description: "Jelle Lamsma, Adrian Raine, Seyed M Kia, Wiepke Cahn, Dominic Arold, Nerisa Banaj, Annarita Barone, Katharina Brosch, Rachel Brouwer, Arturo Brunetti, Vince D Calhoun, Qian H Chew, Sunah Choi, Young-Chul Chung, Mariateresa Ciccarelli, Derin Cobia, Sirio Cocozza, Udo Dannlowski, Paola Dazzan, Andrea De Bartolomeis, Marta Di Forti, Alexandre Dumais, Jesse T Edmond, Stefan Ehrlich, Ulrika Evermann, Kira Flinkenflügel, Foivos Georgiadis, David C Glahn, Janik Goltermann, Melissa J Green, Dominik Grotegerd, Amalia Guerrero-Pedraza, Minji Ha, Elliot L Hong, Hilleke Hulshoff Pol, Felice Iasevoli, Stefan Kaiser, Vasily Kaleda, Andriana Karuk, Minah Kim, Tilo Kircher, Matthias Kirschner, Peter Kochunov, Jun Soo Kwon, Irina Lebedeva, Rebekka Lencer, Tiago R Marques, Susanne Meinert, Robin Murray, Igor Nenadić, Dana Nguyen, Godfrey Pearlson, Fabrizio Piras, Edith Pomarol-Clotet, Giuseppe Pontillo, Stéphane Potvin, Adrian Preda, Yann Quidé, Amanda Rodrigue, Kelly Rootes-Murdy, Raymond Salvador, Kang Sim, Antonin Skoch, Gianfranco Spalletta, Filip Spaniel, Frederike Stein, Florian Thomas-Odenthal, Andràs Tikàsz, David Tomecek, Alexander Tomyshev, Mario Tranfa, Uyanga Tsogt, Jessica A Turner, Theo GM van Erp, Neeltje EM van Haren, Jim van Os, Daniela Vecchio, Lei Wang, Adrian Wroblewski, Thomas Nickl-Jockschat"
+page-layout: full
+---
+
+Lamsma, J., Raine, A., Kia, S. M., Cahn, W., Arold, D., Banaj, N., Barone, A., Brosch, K., Brouwer, R., Brunetti, A., Calhoun, V. D., Chew, Q. H., Choi, S., Chung, Y. C., Ciccarelli, M., Cobia, D., Cocozza, S., Dannlowski, U., Dazzan, P., de Bartolomeis, A., … Nickl-Jockschat, T. (2026). Structural brain abnormalities and aggression in schizophrenia: mega-analysis of data from 2095 patients and 2861 healthy controls via the ENIGMA consortium. Molecular psychiatry, 31(4), 2273–2282. https://doi.org/10.1038/s41380-025-03365-7

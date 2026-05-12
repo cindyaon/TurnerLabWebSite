@@ -1,0 +1,10 @@
+---
+title: "Visualizing functional network connectivity differences using an explainable machine-learning method"
+primary_author: Mohammad SE Sendi
+pres_group: publications
+date: '2025-04-30'
+description: "Mohammad SE Sendi, Vaibhavi S Itkyal, Sabrina J Edwards-Swart, Ji Ye Chun, Daniel H Mathalon, Judith M Ford, Adrian Preda, Theo GM van Erp, Godfrey D Pearlson, Jessica A Turner, Vince D Calhoun"
+page-layout: full
+---
+
+Sendi, M. S. E., Itkyal, V. S., Edwards-Swart, S. J., Chun, J. Y., Mathalon, D. H., Ford, J. M., Preda, A., van Erp, T. G. M., Pearlson, G. D., Turner, J. A., & Calhoun, V. D. (2025). Visualizing functional network connectivity differences using an explainable machine-learning method. Physiological measurement, 46(4), 10.1088/1361-6579/adce52. https://doi.org/10.1088/1361-6579/adce52

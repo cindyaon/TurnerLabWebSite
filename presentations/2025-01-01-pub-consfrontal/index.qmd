@@ -1,0 +1,10 @@
+---
+title: "Consistent frontal-limbic-occipital connections in distinguishing treatment-resistant and non-treatment-resistant schizophrenia"
+primary_author: Yijie Zhang
+pres_group: publications
+date: '2025-01-01'
+description: "Yijie Zhang, Shuzhan Gao, Chuang Liang, Juan Bustillo, Peter Kochunov, Jessica A Turner, Vince D Calhoun, Lei Wu, Zening Fu, Rongtao Jiang, Daoqiang Zhang, Jing Jiang, Fan Wu, Ting Peng, Xijia Xu, Shile Qi"
+page-layout: full
+---
+
+Zhang, Y., Gao, S., Liang, C., Bustillo, J., Kochunov, P., Turner, J. A., Calhoun, V. D., Wu, L., Fu, Z., Jiang, R., Zhang, D., Jiang, J., Wu, F., Peng, T., Xu, X., & Qi, S. (2025). Consistent frontal-limbic-occipital connections in distinguishing treatment-resistant and non-treatment-resistant schizophrenia. NeuroImage. Clinical, 45, 103726. https://doi.org/10.1016/j.nicl.2024.103726

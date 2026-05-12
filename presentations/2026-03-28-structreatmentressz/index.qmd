@@ -1,0 +1,10 @@
+---
+title: "Brain structural abnormalities in treatment-resistant schizophrenia"
+primary_author: Semra Etyemez
+pres_group: publications
+date: '2026-03-28'
+description: "Semra Etyemez, Rohit Sivananthan, Andreia V Faria, Felice Iasevoli, Giuseppe Pontillo, Annabella Di Giorgio, Young-Chul Chung, Woo-Sung Kim, Soyolsaikhan Odkhuu, Jun Soo Kwon, Minah Kim, Minji Ha, Foivos Georgiadis, Beatrice A Milano, Matthias Kirschner, Stefan Kaiser, Diana Tordesillas-Gutiérrez, Kang Sim, Yunlong Tan, Sherry Kit Wa Chan, Jessica A Turner, Theo GM Van Erp, Jimmy Lee, Vince D Calhoun, Akira Sawa, Kun Yang"
+page-layout: full
+---
+
+Etyemez, S., Sivananthan, R., Faria, A. V., Iasevoli, F., Pontillo, G., Di Giorgio, A., Chung, Y. C., Kim, W. S., Odkhuu, S., Kwon, J. S., Kim, M., Ha, M., Georgiadis, F., Milano, B. A., Kirschner, M., Kaiser, S., Tordesillas-Gutiérrez, D., Sim, K., Tan, Y., Chan, S. K. W., … Yang, K. (2026). Brain structural abnormalities in treatment-resistant schizophrenia. Molecular psychiatry, 10.1038/s41380-026-03558-8. Advance online publication. https://doi.org/10.1038/s41380-026-03558-8

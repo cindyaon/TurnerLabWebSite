@@ -1,0 +1,10 @@
+---
+title: "Evidence for white matter intrinsic connectivity networks at rest and during a task: a large-scale study and templates"
+primary_author: Vaibhavi S Itkyal
+pres_group: publications
+date: '2025-10-30'
+description: "Vaibhavi S Itkyal, Armin Iraji, Kyle M Jensen, Theodore J LaGrow, Marlena Duda, Jessica A Turner, Jingyu Liu, Lei Wu, Yuhui Du, Jill Fries, Zening Fu, Peter Kochunov, Aysenil Belger, Judith M Ford, Daniel H Mathalon, Godfrey D Pearlson, Steven G Potkin, Adrian Preda, Theo GM Van Erp, Kun Yang, Akira Sawa, Kent Hutchison, Elizabeth A Osuch, Jean Theberge, Christopher Abbott, Byron A Mueller, Jiayu Chen, Jing Sui, Tulay Adali, Vince D Calhoun"
+page-layout: full
+---
+
+Itkyal, V. S., Iraji, A., Jensen, K. M., LaGrow, T. J., Duda, M., Turner, J. A., Liu, J., Wu, L., Du, Y., Fries, J., Fu, Z., Kochunov, P., Belger, A., Ford, J. M., Mathalon, D. H., Pearlson, G. D., Potkin, S. G., Preda, A., van Erp, T. G. M., Yang, K., … Calhoun, V. D. (2025). Evidence for white matter intrinsic connectivity networks at rest and during a task: A large-scale study and templates. Network neuroscience (Cambridge, Mass.), 9(4), 1221–1244. https://doi.org/10.1162/NETN.a.29

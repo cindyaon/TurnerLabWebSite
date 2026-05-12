@@ -1,0 +1,10 @@
+---
+title: "Co-methylation networks associated with cognition and structural brain development during adolescence"
+primary_author: Dawn Jensen
+pres_group: publications
+date: '2025-01-07'
+description: "Dawn Jensen, Jiayu Chen, Jessica A Turner, Julia M Stephen, Yu-Ping Wang, Tony W Wilson, Vince D Calhoun, Jingyu Liu"
+page-layout: full
+---
+
+Jensen, D., Chen, J., Turner, J. A., Stephen, J. M., Wang, Y. P., Wilson, T. W., Calhoun, V. D., & Liu, J. (2025). Co-methylation networks associated with cognition and structural brain development during adolescence. Frontiers in genetics, 15, 1451150. https://doi.org/10.3389/fgene.2024.1451150

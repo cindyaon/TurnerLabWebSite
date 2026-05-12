@@ -1,0 +1,13 @@
+---
+title: "Effective Connectivity in an Impulsivity Network"
+presenter: Grace Hodges
+pres_group: presentations
+date: '2026-05-01'
+event: SOBP 2026
+description: "Grace Hodges, Zachary Brodnick, Daisy Beale, Kami Pearson, Jessica Turner"
+image: presentation.jpg
+page-layout: full
+---
+
+![](presentation.jpg){width="100%" fig-align="center"}
+

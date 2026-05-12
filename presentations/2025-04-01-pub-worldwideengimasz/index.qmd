@@ -1,0 +1,10 @@
+---
+title: "Estimating multimodal structural brain variability in schizophrenia spectrum disorders: a worldwide ENIGMA Study"
+primary_author: Wolfgang Omlor
+pres_group: publications
+date: '2025-04-01'
+description: "Wolfgang Omlor, Finn Rabe, Simon Fuchs, Werner Surbeck, Giacomo Cecere, Gao-Yang Huang, Stephanie Homan, Nils Kallen, Foivos Georgiadis, Tobias Spiller, Erich Seifritz, Thomas Weickert, Jason Bruggemann, Cynthia Weickert, Steven Potkin, Ryota Hashimoto, Kang Sim, Kelly Rootes-Murdy, Yann Quide, Josselin Houenou, Nerisa Banaj, Daniela Vecchio, Fabrizio Piras, Federica Piras, Gianfranco Spalletta, Raymond Salvador, Andriana Karuk, Edith Pomarol-Clotet, Amanda Rodrigue, Godfrey Pearlson, David Glahn, David Tomecek, Filip Spaniel, Antonin Skoch, Matthias Kirschner, Stefan Kaiser, Peter Kochunov, Feng-Mei Fan, Ole A Andreassen, Lars T Westlye, Pierre Berthet, Vince D Calhoun, Fleur Howells, Anne Uhlmann, Freda Scheffler, Dan Stein, Felice Iasevoli, Murray J Cairns, Vaughan J Carr, Stanley V Catts, Maria A Di Biase, Assen Jablensky, Melissa J Green, Frans A Henskens, Paul Klauser, Carmel Loughland, Patricia T Michie, Bryan Mowry, Christos Pantelis, Paul E Rasser, Ulrich Schall, Rodney Scott, Andrew Zalesky, Andrea de Bartolomeis, Annarita Barone, Mariateresa Ciccarelli, Arturo Brunetti, Sirio Cocozza, Giuseppe Pontillo, Mario Tranfa, Annabella Di Giorgio, Sophia I Thomopoulos, Neda Jahanshad, Paul M Thompson, Theo van Erp, Jessica Turner, Philipp Homan"
+page-layout: full
+---
+
+Omlor, W., Rabe, F., Fuchs, S., Surbeck, W., Cecere, G., Huang, G. Y., Homan, S., Kallen, N., Georgiadis, F., Spiller, T., Seifritz, E., Weickert, T., Bruggemann, J., Weickert, C., Potkin, S., Hashimoto, R., Sim, K., Rootes-Murdy, K., Quide, Y., Houenou, J., … Homan, P. (2025). Estimating Multimodal Structural Brain Variability in Schizophrenia Spectrum Disorders: A Worldwide ENIGMA Study. The American journal of psychiatry, 182(4), 373–388. https://doi.org/10.1176/appi.ajp.20230806

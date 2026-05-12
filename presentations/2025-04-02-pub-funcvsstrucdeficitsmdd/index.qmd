@@ -1,0 +1,10 @@
+---
+title: "Functional vs structural cortical deficit pattern biomarkers for major depressive disorder"
+primary_author: Peter Kochunov
+pres_group: publications
+date: '2025-04-02'
+description: "Peter Kochunov, Bhim M Adhikari, David Keator, Daniel Amen, Si Gao, Nicole R Karcher, Demetrio Labate, Robert Azencott, Yewen Huang, Hussain Syed, Hongjie Ke, Paul M Thompson, Danny JJ Wang, Braxton D Mitchell, Jessica A Turner, Theo GM Van Erp, Neda Jahanshad, Yizhou Ma, Xiaoming Du, William Burroughs, Shuo Chen, Tianzhou Ma, Jair C Soares, L Elliot Hong"
+page-layout: full
+---
+
+Kochunov, P., Adhikari, B. M., Keator, D., Amen, D., Gao, S., Karcher, N. R., Labate, D., Azencott, R., Huang, Y., Syed, H., Ke, H., Thompson, P. M., Wang, D. J. J., Mitchell, B. D., Turner, J. A., van Erp, T. G. M., Jahanshad, N., Ma, Y., Du, X., Burroughs, W., … Hong, L. E. (2025). Functional vs Structural Cortical Deficit Pattern Biomarkers for Major Depressive Disorder. JAMA psychiatry, 82(6), 582–590. https://doi.org/10.1001/jamapsychiatry.2025.0192

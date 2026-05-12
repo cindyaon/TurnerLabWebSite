@@ -1,0 +1,11 @@
+---
+title: "Orbitofrontal Thickness and Network Associations as Transdiagnostic Signature of Amotivation Along the Bipolar-Schizophrenia Spectrum"
+primary_author: Marlene Franz
+pres_group: publications
+date: '2026-03-07'
+description: "Marlene Franz, Valeria Kebets, Xaver Berg, Foivos Georgiadis, Beatrice A Milano, Achim Burrer, Janis Brakowski, Stefan Kaiser, Erich Seifritz, Philipp Homan, Esther Walton, Theo GM van Erp, Jessica A Turner, Bratislav Misic, Sofie L Valk, BT Thomas Yeo, Boris C Bernhardt, Matthias Kirschner"
+page-layout: full
+---
+
+Franz, M., Kebets, V., Berg, X., Georgiadis, F., Milano, B. A., Burrer, A., Brakowski, J., Kaiser, S., Seifritz, E., Homan, P., Walton, E., van Erp, T. G. M., Turner, J. A., Misic, B., Valk, S. L., Yeo, B. T. T., Bernhardt, B. C., & Kirschner, M. (2026). Orbitofrontal Thickness and Network Associations as Transdiagnostic Signature of Amotivation Along the Bipolar-Schizophrenia Spectrum. Schizophrenia bulletin, 52(2), sbaf078. https://doi.org/10.1093/schbul/sbaf078
+

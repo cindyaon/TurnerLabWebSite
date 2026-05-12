@@ -1,5 +1,5 @@
 ---
-title: ENIGMA and COINSTAC: Turning small datasets into big ones
+title: "ENIGMA and COINSTAC: Turning small datasets into big ones"
 pres_group: talks
 date: '2020-11-13'
 description: Jessica Turner

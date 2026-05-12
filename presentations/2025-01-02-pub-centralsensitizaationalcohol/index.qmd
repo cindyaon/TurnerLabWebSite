@@ -1,0 +1,10 @@
+---
+title: "Central sensitization in alcohol use disorder: correlates of pain, addiction and health-related quality of life"
+primary_author: O Trent Hall
+pres_group: publications
+date: '2025-01-02'
+description: "O Trent Hall, Parker Entrup, Anthony King, Michael Vilensky, Craig J Bryan, Julie Teater, Julie Niedermier, Chelsea M Kaplan, Jessica A Turner, Stephanie Gorka, Steven E Harte, David A Williams, Daniel J Clauw"
+page-layout: full
+---
+
+Hall, O. T., Entrup, P., King, A., Vilensky, M., Bryan, C. J., Teater, J., Niedermier, J., Kaplan, C. M., Turner, J. A., Gorka, S., Harte, S. E., Williams, D. A., & Clauw, D. J. (2025). Central sensitization in alcohol use disorder: correlates of pain, addiction and health-related quality of life. Journal of addictive diseases, 43(1), 32–43. https://doi.org/10.1080/10550887.2023.2237396

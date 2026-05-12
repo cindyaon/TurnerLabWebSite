@@ -1,0 +1,10 @@
+---
+title: "Structure and correlates of the Moral Injury Exposure and Symptom Scale for Civilians (MIESS-C) in a community sample with high trauma exposure"
+primary_author: Courtland S Hyatt
+pres_group: publications
+date: '2026-02-14'
+description: "Courtland S Hyatt, Travis M Fulton, Alfonsina Guelfo, Emma C Lathan, Jessica A Turner, Matthew D Turner, Joseph M Currier, Yara Mekawi, Natalie Merrill, Abigail Powers, Negar Fani"
+page-layout: full
+---
+
+Hyatt, C. S., Fulton, T. M., Guelfo, A., Lathan, E. C., Turner, J. A., Turner, M. D., Currier, J. M., Mekawi, Y., Merrill, N., Powers, A., & Fani, N. (2026). Structure and correlates of the Moral Injury Exposure and Symptom Scale for Civilians (MIESS-C) in a community sample with high trauma exposure. European journal of psychotraumatology, 17(1), 2617839. https://doi.org/10.1080/20008066.2026.2617839
