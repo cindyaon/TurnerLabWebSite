@@ -20,9 +20,9 @@ listing:
    page-size: 12
    fields: [image, date, title, presenter, event]
    field-display-names:
-      presenter: "Presenter"
-      event: "Conference"
-  - id: publications
+     presenter: "Presenter"
+     event: "Conference"
+ - id: publications
    include: 
      pres_group: "publications"
    type: grid
@@ -32,7 +32,7 @@ listing:
    page-size: 24
    fields: [date, title, primary_author]
    field-display-names:
-      primary_author: "Primary Author"
+     primary_author: "Primary Author"
 page-layout: full
 title-block-banner: false
 image-lazy-loading: true
