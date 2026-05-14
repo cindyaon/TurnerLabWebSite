@@ -2,5 +2,5 @@
 title: "Kami publishes her paper, 'Effective Connectivity Identifies Divergent Cerebro-Cerebellar Network Organization in Schizophrenia,' in the Cerebellum journal"
 date: '2026-03-23'
 image: kamipub.png
-description: 2nd year grad student, Kami Pearson, published her paper examining cerebellar effective connectivity in schizophrenia in The Cerebellum. Read the paper here: https://doi.org/10.1007/s12311-026-01983-7
+description: "2nd year grad student, Kami Pearson, published her paper examining cerebellar effective connectivity in schizophrenia in The Cerebellum. Read the paper here: https://doi.org/10.1007/s12311-026-01983-7"
 ---
