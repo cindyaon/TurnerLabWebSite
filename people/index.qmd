@@ -63,10 +63,14 @@ page-layout: full
 :::
 
 :::: gray-background
+
+
 ## Research Scientists
 
 ::: {#ResearchScientist}
 :::
+
+
 ::::
 
 ## Graduate Students
@@ -75,10 +79,14 @@ page-layout: full
 :::
 
 :::: gray-background
+
+
 ## Research Assistants
 
 ::: {#researcher}
 :::
+
+
 ::::
 
 ## Undergraduate Researchers
@@ -87,8 +95,12 @@ page-layout: full
 :::
 
 :::: gray-background
+
+
 ## Alumni
 
 ::: {#alumni}
 :::
+
+
 ::::

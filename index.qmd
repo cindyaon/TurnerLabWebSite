@@ -15,7 +15,10 @@ Our research focuses on understanding how brain structure and function relate to
 
 **The brain is an ongoing puzzle!** Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more [here](research.qmd).
 
+
 ::: gray-background
+
+
 ## Current Projects
 
 -   Cerebellar contributions to psychosis
@@ -25,7 +28,10 @@ Our research focuses on understanding how brain structure and function relate to
 -   Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
 
 -   Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
+
+
 :::
+
 
 ## Collaborators
 

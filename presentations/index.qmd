@@ -5,7 +5,7 @@ listing:
    include: 
      pres_group: "talks"
    type: grid
-   sort: "date"
+   sort: "date desc"
    sort-ui: true
    filter-ui: true
    page-size: 12
@@ -19,21 +19,22 @@ listing:
    filter-ui: true
    page-size: 12
    fields: [image, date, title, presenter, event]
+   field-display-names:
+      presenter: "Presenter"
+      event: "Conference"
   - id: publications
    include: 
      pres_group: "publications"
    type: grid
-   sort: "date"
+   sort: "date desc"
    sort-ui: true
    filter-ui: true
    page-size: 24
-   fields: [image, date, title, primary_author]
+   fields: [date, title, primary_author]
+   field-display-names:
+      primary_author: "Primary Author"
 page-layout: full
 title-block-banner: false
-field-display-names:
-  presenter: "Presenter"
-  primary_author: "Primary Author"
-  event: "Conference"
 image-lazy-loading: true
 ---
 
@@ -56,10 +57,12 @@ Presentations, publications, and talks from the lab.
 
 :::: gray-background
 
+
 ## Talks given by Dr. Turner
 
 ::: {#talks}
 :::
+
 
 ::::
 
@@ -72,10 +75,12 @@ Presentations, publications, and talks from the lab.
 
 :::: gray-background
 
+
 ## Publications
 
 ::: {#publications}
 :::
+
 
 ::::
 
